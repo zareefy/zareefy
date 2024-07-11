@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center" title="...fine, continue now :)">😼 Hey coucou! 𝙸'𝚖 Thomas</h1>
+<h1 align="center" title="...fine, continue now :)">😼 Hey coucou! 𝙸'𝚖 Zareefy or call me tonton if you want</h1>
 
 <!-- Contact and keys -->
 <p align="center">
@@ -9,8 +9,9 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.linkedin.com/in/thomas-boulanger-23b9b56a/" title="LinkedIn - Thomas Boulanger"><img src="https://img.shields.io/badge/-LinkedIn-00acee?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/thomas.boulanger.906" title="Facebook - Thomas Boulanger"><img src="https://img.shields.io/badge/-Facebook-00acee?style=flat&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thomas-boulanger-23b9b56a/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-00acee?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/thomas.boulanger.906" title="Facebook"><img src="https://img.shields.io/badge/-Facebook-00acee?style=flat&logo=Facebook&logoColor=white" /></a>
+  <a href="https://hub.docker.com/u/zareefy" title="Docker Hub"><img src="https://img.shields.io/badge/-Docker--Hub-00acee?style=flat&logo=Docker&logoColor=white" /></a>
   </kbd>
 </p>
 
