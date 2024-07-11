@@ -3,13 +3,14 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:t.boulanger456@gmail.com" title="Email Address"><code>Mail</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a>
+<a href="mailto:t.boulanger456@gmail.com" title="Email Address"><code>Mail</code></a>
 </p>
 
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.linkedin.com/in/thomas-boulanger-23b9b56a/" title="LinkedIn - Thomas Boulanger"><img src="https://img.shields.io/badge/-thomas--boulanger--23b9b56a-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thomas-boulanger-23b9b56a/" title="LinkedIn - Thomas Boulanger"><img src="https://img.shields.io/badge/-LinkedIn-00acee?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/thomas.boulanger.906" title="Facebook - Thomas Boulanger"><img src="https://img.shields.io/badge/-Facebook-00acee?style=flat&logo=Facebook&logoColor=white" /></a>
   </kbd>
 </p>
 
@@ -36,7 +37,7 @@ Otherwise, I love pasta with parmezan!
   </p>
 </details>
   
-<!-- Tech Stack -->  
+<!-- Home Lab -->  
 <details>
   <summary><b>🧪 Home Lab</b></summary>
     <p>
@@ -51,6 +52,23 @@ All components are infra-as-code, show repositories :
 - [![ansible-home](https://img.shields.io/static/v1?label=&message=Ansible&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/ansible-home/) Install k8s and requirements
 - [![docker-home](https://img.shields.io/static/v1?label=&message=Docker&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/docker-home/) Build image for k8s
 - [![k8s-home](https://img.shields.io/static/v1?label=&message=k8s&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/k8s-home/) Deploy services on k8s
+
+
+----      
+
+  </p>
+</details>
+
+<!--Dev projects -->  
+<details>
+  <summary><b>🪂 Dev projects</b></summary>
+    <p>
+
+<blockquote>
+
+
+- [![game-of-life](https://img.shields.io/static/v1?label=&message=GameOfLife&color=343434&logo=github&logoColor=FFAEFF)](https://github.com/zareefy/game-of-life/) Famous Game of Life  
+- [![wiki-home](https://img.shields.io/static/v1?label=&message=WikiSync&color=343434&logo=github&logoColor=CFAEFF)](https://github.com/zareefy/wiki-home/) API Endpoint to sync wiki instance
 
 
 ----      
