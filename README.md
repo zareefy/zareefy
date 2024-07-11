@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center" title="...fine, continue now :)">😼 Hey coucou! 𝙸'𝚖 Zareefy or call me tonton if you want</h1>
+<h1 align="center" title="...fine, continue now :)">😼 Hey coucou ! 😻</h1>
 
 <!-- Contact and keys -->
 <p align="center">
