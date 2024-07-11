@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center" title="...fine, continue now :)">👋 Hey coucou! 𝙸'𝚖 Thomas</h1>
+<h1 align="center" title="...fine, continue now :)">😼 Hey coucou! 𝙸'𝚖 Thomas</h1>
 
 <!-- Contact and keys -->
 <p align="center">
@@ -13,27 +13,21 @@
   </kbd>
 </p>
 
-   
-<!-- Outer collapsible -->  
-<details>
-   <summary><b>↕️ Expand for more!</b></summary>
-  
+
    <br>
    
 <!-- About Section -->
 <details>
-  <summary><b>👤 About</b></summary>
+  <summary><b>🍓 About</b></summary>
     <p>
       
 <blockquote>
 
 Hello there,
 
-I DevOps engineer based in Lille France. 
+I DevOps engineer based in Lille France.
 
-Also, i have a dedicated server hosted by OVH. I used it to discover and pratices some tools around DevOps.
-
-Otherwise, I love pasta!
+Otherwise, I love pasta with parmezan!
 
 </blockquote>
     
@@ -42,6 +36,27 @@ Otherwise, I love pasta!
   </p>
 </details>
   
+<!-- Tech Stack -->  
+<details>
+  <summary><b>🧪 Home Lab</b></summary>
+    <p>
+
+<blockquote>
+I use Proxmox Os as a hypervisor for my K8S instance.
+
+All components are infra-as-code, show repositories : 
+
+- [![packer-home](https://img.shields.io/static/v1?label=&message=Packer&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/packer-home/) Build Qemu image for hypervisor
+- [![terraform-home](https://img.shields.io/static/v1?label=&message=Terraform&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/terraform-home/) Provison Qemu image as virtual machine on hypervisor
+- [![ansible-home](https://img.shields.io/static/v1?label=&message=Ansible&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/ansible-home/) Install k8s and requirements
+- [![docker-home](https://img.shields.io/static/v1?label=&message=Docker&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/docker-home/) Build image for k8s
+- [![k8s-home](https://img.shields.io/static/v1?label=&message=k8s&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/k8s-home/) Deploy services on k8s
+
+
+----      
+
+  </p>
+</details>
 
 <!-- Tech Stack -->  
 <details>
@@ -50,9 +65,10 @@ Otherwise, I love pasta!
 
 | **Category** | **Technologies** |
 | - | - |
-**Core** |  [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)<br> [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/)
+**Core** |  [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/)
 **Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Google](https://img.shields.io/static/v1?label=&message=Google&color=0078D4&logo=google&logoColor=FFFFFF)](https://cloud.google.com/)
-**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/) [![Tekton](https://img.shields.io/static/v1?label=&message=Tekton&color=343434&logo=tekton&logoColor=FFFFFF)](https://tekton.com/) [![Gitlab](https://img.shields.io/static/v1?label=&message=Gitlab&color=343434&logo=gitlab&logoColor=FFFFFF)](https://gitlab.com/) [![Github](https://img.shields.io/static/v1?label=&message=Github&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/)  [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=343434&logo=kubernetes&logoColor=FFFFFF)](https://argocd.com/)  [![ArgoCD](https://img.shields.io/static/v1?label=&message=ArgoCD&color=343434&logo=argocd&logoColor=FFFFFF)](https://argocd.com/) [![Jenkins](https://img.shields.io/static/v1?label=&message=Jenkins&color=343434&logo=jenkins&logoColor=FFFFFF)](https://jenkins.com/) [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=343434&logo=terraform&logoColor=FFFFFF)](https://terraform.com/) [![Packer](https://img.shields.io/static/v1?label=&message=Packer&color=343434&logo=packer&logoColor=FFFFFF)](https://packer.com/) [![Novops](https://img.shields.io/static/v1?label=&message=Novops&color=343434&logo=novops&logoColor=FFFFFF)](https://novops.com/)
+**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Docker Swarm](https://img.shields.io/static/v1?label=&message=DockerSwarm&color=2416ED&logo=dockerswarm&logoColor=FFFFFF)](https://docker.com/) [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/) [![Tekton](https://img.shields.io/static/v1?label=&message=Tekton&color=347434&logo=tekton&logoColor=FFFFFF)](https://tekton.com/) [![Gitlab](https://img.shields.io/static/v1?label=&message=Gitlab&color=243438&logo=gitlab&logoColor=FFFFFF)](https://gitlab.com/) [![Github](https://img.shields.io/static/v1?label=&message=Github&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/)  [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=143434&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.com/)  [![ArgoCD](https://img.shields.io/static/v1?label=&message=ArgoCD&color=316434&logo=argocd&logoColor=FFFFFF)](https://argocd.com/) [![Jenkins](https://img.shields.io/static/v1?label=&message=Jenkins&color=AA0000&logo=jenkins&logoColor=FFFFFF)](https://jenkins.com/) [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=343434&logo=terraform&logoColor=FFFFFF)](https://terraform.com/) [![Packer](https://img.shields.io/static/v1?label=&message=Packer&color=143434&logo=packer&logoColor=FFFFFF)](https://packer.com/) [![Novops](https://img.shields.io/static/v1?label=&message=Novops&color=343434&logo=novops&logoColor=FFFFFF)](https://novops.com/)
+**Observability** | [![Grafana](https://img.shields.io/static/v1?label=&message=Grafana&color=FCC624&logo=grafana&logoColor=FFFFFF)](https://grafana.com/) [![Logstash](https://img.shields.io/static/v1?label=&message=Logstash&color=4EAA25&logo=logstash&logoColor=FFFFFF)](https://logstash.com) [![InfluxDB](https://img.shields.io/static/v1?label=&message=InfluxDB&color=000000&logo=influxdb&logoColor=FFFFFF)](https://influxdb.com)  [![Beats](https://img.shields.io/static/v1?label=&message=Beats&color=343434&logo=beats&logoColor=FFFFFF)](https://beats.com/)[![Elasticsearch](https://img.shields.io/static/v1?label=&message=Elasticsearch&color=343434&logo=Eelasticsearch&logoColor=FFFFFF)](https://elasticsearch.com/)
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)  [![Excalidraw](https://img.shields.io/static/v1?label=&message=Excalidraw&color=343434&logo=excalidraw&logoColor=FFFFFF)](https://excalidraw.com/)
 **Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
 
@@ -86,10 +102,8 @@ Otherwise, I love pasta!
 
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/zareefy/zareefy/master/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/zareefy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/zareefy/zareefy/master/assets/github-snake.svg" /></a>
 </p>
-
-</details>
 
 <!--
 
