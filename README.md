@@ -10,8 +10,8 @@
 <p align="center">
    <kbd>
   <a href="https://www.linkedin.com/in/thomas-boulanger-23b9b56a/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-00acee?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/thomas.boulanger.906" title="Facebook"><img src="https://img.shields.io/badge/-Facebook-00acee?style=flat&logo=Facebook&logoColor=white" /></a>
-  <a href="https://hub.docker.com/u/zareefy" title="Docker Hub"><img src="https://img.shields.io/badge/-Docker--Hub-00acee?style=flat&logo=Docker&logoColor=white" /></a>
+  <a href="https://www.facebook.com/thomas.boulanger.906" title="Facebook"><img src="https://img.shields.io/badge/-Facebook-f48225?style=flat&logo=Facebook&logoColor=white" /></a>
+  <a href="https://hub.docker.com/u/zareefy" title="Docker Hub"><img src="https://img.shields.io/badge/-Docker--Hub-00CCB4?style=flat&logo=Docker&logoColor=white" /></a>
   </kbd>
 </p>
 
