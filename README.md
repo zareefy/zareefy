@@ -75,34 +75,9 @@ Otherwise, I love pasta!
 <br /><br /><br />
        
 
-
-**[➡️ More Metrics](/METRICS.md)**
-
 </p>
 </details>
 
-
-<!-- Recent Activity -->
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-            
-<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1636](https://github.com/Lissy93/dashy/pull/1636) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. 🎉 Merged PR [#258](https://github.com/Lissy93/awesome-privacy/pull/258) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-3. 🎉 Merged PR [#1622](https://github.com/Lissy93/dashy/pull/1622) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. ❌ Closed PR [#7](https://github.com/Lissy93/my-website/pull/7) in [Lissy93/my-website](https://github.com/Lissy93/my-website)
-5. 🎉 Merged PR [#154](https://github.com/Lissy93/web-check/pull/154) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 🎉 Merged PR [#156](https://github.com/Lissy93/web-check/pull/156) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-7. 🔒 Closed issue [#1261](https://github.com/Lissy93/dashy/issues/1261) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🎉 Merged PR [#1623](https://github.com/Lissy93/dashy/pull/1623) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-9. 🎉 Merged PR [#253](https://github.com/Lissy93/awesome-privacy/pull/253) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-10. 🎉 Merged PR [#55](https://github.com/xray-web/web-check-api/pull/55) in [xray-web/web-check-api](https://github.com/xray-web/web-check-api)
-<!--END_SECTION:activity-->
-
-➡️  **[More Activity](/RECENT-ACTIVITY.md)**
 
 ----
 
