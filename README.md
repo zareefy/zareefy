@@ -48,11 +48,11 @@ I use Proxmox Os as a hypervisor for my K8S instance.
 
 All components are infra-as-code, show repositories : 
 
-- [![packer-home](https://img.shields.io/static/v1?label=&message=Packer&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/packer-home/) Build Qemu image for hypervisor
-- [![terraform-home](https://img.shields.io/static/v1?label=&message=Terraform&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/terraform-home/) Provison Qemu image as virtual machine on hypervisor
-- [![ansible-home](https://img.shields.io/static/v1?label=&message=Ansible&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/ansible-home/) Install k8s and requirements
-- [![docker-home](https://img.shields.io/static/v1?label=&message=Docker&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/docker-home/) Build image for k8s
-- [![k8s-home](https://img.shields.io/static/v1?label=&message=k8s&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/k8s-home/) Deploy services on k8s
+- [![packer](https://img.shields.io/static/v1?label=&message=Packer&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/packer/) Build Qemu image for hypervisor
+- [![terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/terraform/) Provison Qemu image as virtual machine on hypervisor
+- [![ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/ansible/) Install k8s and requirements
+- [![docker](https://img.shields.io/static/v1?label=&message=Docker&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/docker/) Build image for k8s
+- [![k8s](https://img.shields.io/static/v1?label=&message=k8s&color=343434&logo=github&logoColor=FFFFFF)](https://github.com/zareefy/k8s/) Deploy services on k8s
 
 
 ----      
@@ -69,7 +69,7 @@ All components are infra-as-code, show repositories :
 
 
 - [![game-of-life](https://img.shields.io/static/v1?label=&message=GameOfLife&color=343434&logo=github&logoColor=FFAEFF)](https://github.com/zareefy/game-of-life/) Famous Game of Life  
-- [![wiki-home](https://img.shields.io/static/v1?label=&message=WikiSync&color=343434&logo=github&logoColor=CFAEFF)](https://github.com/zareefy/wiki-home/) API Endpoint to sync wiki instance
+- [![wiki](https://img.shields.io/static/v1?label=&message=WikiSync&color=343434&logo=github&logoColor=CFAEFF)](https://github.com/zareefy/wiki/) API Endpoint to sync wiki instance
 
 
 ----      
