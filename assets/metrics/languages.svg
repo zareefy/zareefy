@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.4mb of code in 1239 edited files across 1236 commits</small>
+                <small>estimation from 14.5mb of code in 1245 edited files across 1242 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -45,18 +45,44 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.48mb of code in 327 edited files across 575 commits over last 34 days</small>
+                <small>estimation from 2.14mb of code in 324 edited files across 565 commits over last 31 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.7664783427495" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="291.7664783427495" y="0" width="137.5668549905838" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="429.3333333333333" y="0" width="16.459510357815443" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="445.7928436911488" y="0" width="14.207156308851225" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.83978759228074" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="256.83978759228074" y="0" width="138.39917109182747" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="395.2389586841083" y="0" width="59.1011527004274" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="454.3401113845357" y="0" width="5.659888615464318" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Shell
+                            </div>
+                            <small>
+                                <div>107 lines</div>
+                                <div>4.31 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Dockerfile
+                            </div>
+                            <small>
+                                <div>30 lines</div>
+                                <div>992 bytes</div>
+                            </small>
+                        </div>
+                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -66,8 +92,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>53 lines</div>
-                                <div>1.68 kB</div>
+                                <div>63 lines</div>
+                                <div>2.32 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -80,32 +106,6 @@
                             <small>
                                 <div>4 lines</div>
                                 <div>95 bytes</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Dockerfile
-                            </div>
-                            <small>
-                                <div>22 lines</div>
-                                <div>794 bytes</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Shell
-                            </div>
-                            <small>
-                                <div>2 lines</div>
-                                <div>82 bytes</div>
                             </small>
                         </div>
                     </section>
