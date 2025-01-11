@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 16.7mb of code in 1410 edited files across 1407 commits</small>
+                <small>estimation from 16.7mb of code in 1417 edited files across 1414 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -45,15 +45,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.15mb of code in 323 edited files across 564 commits over last 30 days</small>
+                <small>estimation from 2.22mb of code in 321 edited files across 570 commits over last 31 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.461899179367" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="332.461899179367" y="0" width="106.00087924970693" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="438.46277842907386" y="0" width="21.537221570926143" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.5391330299187" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="338.5391330299187" y="0" width="99.52995598000449" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="438.0690890099232" y="0" width="21.93091099007685" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -91,8 +91,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>82 lines</div>
-                                <div>3.15 kB</div>
+                                <div>77 lines</div>
+                                <div>2.90 kB</div>
                             </small>
                         </div>
                     </section>
